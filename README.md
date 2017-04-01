@@ -1,7 +1,7 @@
 # The_Encrypted
 
 + A simple little hack to get your Time table
-+ get your Time Table with just one click , the code is written in Python 3.5.2 so it's self explanatory that your machine shoud've got python installed and environmental variable set up to get the main work done. here is the code..
++ get your Time Table with just one click , the code is written in Python 3.5.2 so it's self explanatory that your machine should've got python installed and environmental variable set up to get the main work done. here is the code..
 
 ```Python 3
 
@@ -59,7 +59,7 @@ print('thought of the day...\n')
 for J in soup.find_all('article', {'class': 'lineH20'}):  # getting the thought
     print(J.text.replace('\u2019', ''))
 ```
-And of course, no one would what to open the python interpreter every time you want to check out your timetable so for that , batch comes in handy (command line programming in simple terms). Do the following to get the time tble at just one click.
+And of course, no one would what to open the python interpreter every time you want to check out your timetable so for that , batch comes in handy (command line programming in simple terms). Do the following to get the time table at just one click.
 
 1) open the notepad or notepad++ if you have and type the following.
 
@@ -76,4 +76,4 @@ PATH will be the place where you have all your python programs, or where your pr
 
 2) Save the text file as 'time_table.bat' or whatever name you like but don't forget .bat extension.
 
-+ contact the number on notice board for further information
++ contact the E-mail on notice board for further information
