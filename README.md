@@ -77,3 +77,4 @@ PATH will be the place where you have all your python programs, or where your pr
 2) Save the text file as 'time_table.bat' or whatever name you like but don't forget .bat extension.
 
 + contact the E-mail on notice board for further information
++ If you are able to understand the code above then have a good look at other code one
