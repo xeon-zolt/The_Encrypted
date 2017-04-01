@@ -1,4 +1,5 @@
 # The_Encrypted
+
 + A simple little hack to get your Time table
 + get your Time Table with just one click , the code is written in Python 3.5.2 so it's self explanatory that your machine shoud've got python installed and environmental variable set up to get the main work done. here is the code..
 
