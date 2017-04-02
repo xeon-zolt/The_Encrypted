@@ -72,7 +72,7 @@ python ./erp_1.py
 pause
 
 ```
-PATH will be the place where you have all your python programs, or where your projrcts are being saved, it would look like this 'D:\PycharmProjects\dictionary' for that just right click on the python file and click on properties and paste the get the path .
+PATH will be the place where you have all your python programs, or where your projrcts are being saved, it would look like this 'D:\PycharmProjects\dictionary' for that just right click on the python file and click on properties and get the path .
 
 2) Save the text file as 'time_table.bat' or whatever name you like but don't forget .bat extension.
 
